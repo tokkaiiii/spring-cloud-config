@@ -1,0 +1,12 @@
+token:
+  expiration_time: 86400000
+  secret: dev_42b22141b1923185f3836571787ed2d99d9b202838ef52cc9b7f04546c538400459dcacb25ed56055234eacd058aad178504952a1b156a4f0b8e2ebe5617d433
+
+gateway:
+  ip: 127.0.0.1
+  timeout: 5000
+
+storage:
+
+  s3:
+    access_key: YOUR_ACCESS_KEY
